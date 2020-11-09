@@ -1,0 +1,9 @@
+C:\Users\saksh\source\repos\Nexsus\Nexsus\bin\Debug\netcoreapp2.0\cosmos\Nexsus.deps.json
+C:\Users\saksh\source\repos\Nexsus\Nexsus\bin\Debug\netcoreapp2.0\cosmos\Nexsus.dll
+C:\Users\saksh\source\repos\Nexsus\Nexsus\bin\Debug\netcoreapp2.0\cosmos\Nexsus.pdb
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.csprojAssemblyReference.cache
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.AssemblyInfoInputs.cache
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.AssemblyInfo.cs
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.csproj.CoreCompileInputs.cache
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.dll
+C:\Users\saksh\source\repos\Nexsus\Nexsus\obj\Debug\netcoreapp2.0\cosmos\Nexsus.pdb
